@@ -6,6 +6,7 @@ This repository contains a machine learning project for predicting property pric
 Dataset:
 
 The dataset includes the following columns:
+
 *Bathrooms: Number of bathrooms in the property.
 *Furnishing: Furnishing status of the property (e.g., Furnished, Semi-Furnished).
 *Area: Size of the property in square feet.
@@ -15,6 +16,8 @@ The dataset includes the following columns:
 
 
 Methodology:
+
+
 Utilized machine learning algorithms to create predictive models.
 Employed models like Linear Regression, Lasso Regression, and Decision Trees.
 Conducted hyperparameter tuning using GridSearchCV to optimize model performance.
@@ -22,6 +25,8 @@ Conducted hyperparameter tuning using GridSearchCV to optimize model performance
 
 
 Objectives:
+
+
 Predict property prices based on the provided features.
 Evaluate the performance of different machine learning algorithms to identify the best model for accurate predictions.
 
