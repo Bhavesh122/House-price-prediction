@@ -8,10 +8,15 @@ Dataset:
 The dataset includes the following columns:
 
 *Bathrooms: Number of bathrooms in the property.
+
 *Furnishing: Furnishing status of the property (e.g., Furnished, Semi-Furnished).
+
 *Area: Size of the property in square feet.
+
 *Price: Price of the property (target variable).
+
 *bhk: Number of bedrooms in the property.
+
 *Locality: Location of the property.
 
 
